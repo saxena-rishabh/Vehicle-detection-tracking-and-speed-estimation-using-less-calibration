@@ -21,7 +21,7 @@ There are many techniques available on the internet which require two reference 
 
  - Cannot properly detect each vehicle separately in a video.
  - Too slow to implement in realtime. 
- - Not able to measure uniquely the speed of different vehicles at the same time in a video.
+ - Not able to measure individual speed of different vehicles at a time in a video.
  
  According to my approach, we can overcome the above-mentioned drawbacks. 
 
