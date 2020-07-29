@@ -26,7 +26,7 @@ There are many techniques available on the internet which require two reference 
  According to my approach, we can overcome the above-mentioned drawbacks. 
 
 ## My approach:
-### Things I am assuming:
+**Things I am assuming:**
  - We have a camera mounted on a tree or a pole that records or captures video in real-time as shown in the demo video.
  - We know the distance in kilometers or meters which the camera captures.
  - We know the framerate at which our camera captures the video.
