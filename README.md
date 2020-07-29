@@ -12,9 +12,9 @@ There are many techniques available on the internet which require two reference 
  - [https://www.pyimagesearch.com/2019/12/02/opencv-vehicle-detection-tracking-and-speed-estimation/](https://www.pyimagesearch.com/2019/12/02/opencv-vehicle-detection-tracking-and-speed-estimation/) This webpage gives step by step process of Vehicle Detection, Tracking, and Speed Estimation using OpenCV, Raspberry Pi, and Intel Movidius NCS.  
  **Drawbacks:** It uses proper calibration and is hard to setup.
  
- - [https://camlytics.com/calculate-vehicle-speed](https://camlytics.com/calculate-vehicle-speed) They use almost the same technique you are using. In place of two cones, they place two lines.
+ - [https://camlytics.com/calculate-vehicle-speed](https://camlytics.com/calculate-vehicle-speed) They use almost the same technique you are using. In place of two cones, they place two lines.  
 **Drawbacks:** They provide paid services.
- - [https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/](https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/) OpenCV Python program for Vehicle detection in a video frame
+ - [https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/](https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/) OpenCV Python program for Vehicle detection in a video frame.  
  **Drawbacks:** Too slow to implement in realtime. 
 
 ### Some common drawbacks of currently available solutions:
